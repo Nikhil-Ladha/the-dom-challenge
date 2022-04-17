@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div#grid {
+    margin: 6rem auto;
+}
+
+div#grid > div {
+    height: 4rem;
+    margin: auto;
+    width: max-content;
+}
+
+div#grid > div > div {
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+    border-right: 2px solid lightgray;
+    border-top: 2px solid lightgray;
+}
+
+div#grid > div > div:nth-child(1) {
+    border-left: 2px solid lightgray;
+}
+
+div#grid > div:last-child {
+    border-bottom: 2px solid lightgray;
+}
+
+div#grid > div:last-child:hover {
+    cursor: pointer;
+}
