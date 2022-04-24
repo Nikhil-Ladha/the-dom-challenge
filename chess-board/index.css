@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div#board {
+    margin: 6rem auto;
+}
+
+div#board > div {
+    height: 6rem;
+    margin: auto;
+    width: max-content;
+}
+
+div#board > div > div {
+    display: inline-block;
+    width: 6rem;
+    height: 6rem;
+}
+
+div#board > div > div:nth-child(1) {
+    border-left: 2px solid black;
+}
+
+div#board > div > div:last-child {
+    border-right: 2px solid black;
+}
+
+div#board > div:last-child {
+    border-bottom: 2px solid black;
+}
+
+div#board > div:first-child {
+    border-top: 2px solid black;
+}
+
+div#board > div > div:hover {
+    cursor: pointer;
+}
