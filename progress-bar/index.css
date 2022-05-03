@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#progress-bar {
+    margin: 2rem 0 2rem 2rem;
+    width: 50rem;
+    height: 3rem;
+    background-color: rgb(240, 240, 240);
+}
+
+#bar {
+    display: inline-block;
+    background-color: blue;
+    height: 3rem;
+}
+
+button {
+    margin-left: 2rem;
+    font-size: 1.25rem;
+    padding: 0.25rem 0.5rem;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
+
+.add-count {
+    margin-left: 0.25rem;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(225, 225, 225);
+}
+
