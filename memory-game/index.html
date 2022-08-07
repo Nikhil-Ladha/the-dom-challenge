@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Memory Game</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <section class="score">
+            <p>Score: <span id="currentscore">0</span></p>
+            <p>High Score: <span id="highscore">0</span></p>
+        </section>
+        <section id="grid"></section>
+        <button id="start">Start</button>
+        <script src="index.js"></script>
+        <script>
+            Grid("#grid", 5);
+        </script>
+    </body>
+</html>
