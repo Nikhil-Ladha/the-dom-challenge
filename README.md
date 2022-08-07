@@ -12,9 +12,7 @@ Implement Star Rating Widget using HTML, CSS and JavaScript [View](./star-rating
 
 **Duration:** 60 Minutes <br/>
 
-**Solution 1:** https://jsfiddle.net/devkodeio/2ovtnj8f/
-
-**Solution 2:** https://jsfiddle.net/devkodeio/dry8mczx/
+**Solution:** [Star Rating](./star-rating/index.html)
 
 ---
 
@@ -22,7 +20,7 @@ Implement Star Rating Widget using HTML, CSS and JavaScript [View](./star-rating
 
 Implement Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/README.md)
 
-**Duration:** 60 Minutes <br/>
+**Solution:** [Pixel Art](./pixel-art/index.html)
 
 ---
 
@@ -30,7 +28,7 @@ Implement Pixel Art grid using HTML, CSS and JavaScript [View](./pixel-art/READM
 
 Implement chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals. [View](./chess-board/README.md)
 
-**Duration:** 90 Minutes <br/>
+**Solution:** [Chess Board](./chess-board/index.html)
 
 ---
 
@@ -38,7 +36,7 @@ Implement chess board using HTML, CSS and Vanilla Javascript, where if you click
 
 Implement color spotter game using HTML, CSS and Vanilla Javascript, where you have to identify the cell that is different from the rest. [View](./color-spotter/README.md)
 
-**Duration:** 90 Minutes <br/>
+**Solution:** [Color Spotter](./color-spotter/index.html)
 
 ---
 
@@ -46,7 +44,7 @@ Implement color spotter game using HTML, CSS and Vanilla Javascript, where you h
 
 Implement Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress-bar/README.md)
 
-**Duration:** 90 Minutes <br/>
+**Solution:** [Progress Bar](./progress-bar/index.html)
 
 ---
 
@@ -54,7 +52,7 @@ Implement Progress bar using HTML, CSS and Vanilla Javascript. [View](./progress
 
 Implement Memory Game using HTML, CSS and Vanilla Javascript. [View](./memory-game/README.md)
 
-**Duration:** 90 Minutes <br/>
+**Solution:** [Memory Game](./memory-game/index.html)
 
 ---
 
